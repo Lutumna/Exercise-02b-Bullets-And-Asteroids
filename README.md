@@ -1,6 +1,6 @@
 # Exercise-02b-Bullets-And-Asteroids
 
-Exercise for MSCH-C220
+Daniyaal Hussain
 
 A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
 
@@ -13,8 +13,8 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 ## References
 None
 
-## Future Development
-None
+## Username
+Lutumna
 
 ## Created by
-Nathan Mishler
+Daniyaal Hussain
